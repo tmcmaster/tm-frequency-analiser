@@ -4,6 +4,7 @@
         "build": "npm update && npm run web"
     },
     "dependencies": {
-        "@wonkytech/tm-examples": "~0.1"
+        "@wonkytech/tm-examples": "~0.1",
+        "@wonkytech/tm-frequency-analiser": "~0.1"
     }
 }

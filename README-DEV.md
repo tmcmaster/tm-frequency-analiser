@@ -52,3 +52,7 @@ npm run docs:serve
 
 After publishing and building docs, commit the new files in the docs
 directory, to update the GitHub Pages website.
+
+## Notes
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API
