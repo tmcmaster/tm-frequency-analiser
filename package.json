@@ -1,11 +1,11 @@
 {
-    "name": "@wonkytech/template-web-component",
-    "version": "0.0.3",
+    "name": "@wonkytech/tm-frequency-analiser",
+    "version": "0.1.0",
     "description": "This is a template for creating new web component repositories.",
     "author": "Tim McMaster",
-    "homepage": "https://tmcmaster.github.io/template-web-component",
+    "homepage": "https://tmcmaster.github.io/tm-frequency-analiser",
     "license": "MIT",
-    "repository": "https://github.com/tmcmaster/template-web-component",
+    "repository": "https://github.com/tmcmaster/tm-frequency-analiser",
     "pika": true,
     "sideEffects": true,
     "@pika/pack": {

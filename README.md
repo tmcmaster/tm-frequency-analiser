@@ -1,17 +1,17 @@
-# template-web-component
+# tm-frequency-analiser
 
 This is a template for creating new web component repositories.
 
 ## Installation
 ```bash
-npm install @wonkytech/template-web-component
+npm install @wonkytech/tm-frequency-analiser
 ```
 
 ## Usage
 ```html
 <script type="module">
-  import '@wonkytech/template-web-component';
+  import '@wonkytech/tm-frequency-analiser';
 </script>
 
-<template-web-component></template-web-component>
+<tm-frequency-analiser></tm-frequency-analiser>
 ```
